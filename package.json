@@ -1,0 +1,24 @@
+{
+  "name": "725",
+  "version": "1.0.0",
+  "description": "Applied Software Engineering",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/m011amad/SIT725-2024-T1-prac1.git"
+  },
+  "author": "Mason",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/m011amad/SIT725-2024-T1-prac1/issues"
+  },
+  "homepage": "https://github.com/m011amad/SIT725-2024-T1-prac1#readme",
+  "dependencies": {
+    "express": "^4.18.3",
+    "save": "^2.9.0"
+  }
+}
